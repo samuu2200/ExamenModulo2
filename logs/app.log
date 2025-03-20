@@ -1,0 +1,11 @@
+
+2025-03-20 17:07:09 [main] INFO  examen.proyecto.Main - Hello world!
+2025-03-20 18:20:26 [main] INFO  e.p.conceptosavanzados.CursoImpl - El máster es oficial: 
+2025-03-20 18:21:06 [main] INFO  e.p.conceptosavanzados.CursoImpl - El máster es oficial: 
+2025-03-20 18:21:08 [main] INFO  e.p.conceptosavanzados.CursoImpl - ¿Qué máster quieres borrar? Elige un código: 
+2025-03-20 18:21:12 [main] INFO  e.proyecto.conceptosavanzados.Curso - *** Código del curso ***
+2025-03-20 18:21:12 [main] INFO  e.proyecto.conceptosavanzados.Curso - Cupón del curso: 2
+2025-03-20 18:21:12 [main] INFO  e.proyecto.conceptosavanzados.Curso - *** Código del curso ***
+2025-03-20 18:21:12 [main] INFO  e.proyecto.conceptosavanzados.Curso - Cupón del curso: 2
+2025-03-20 18:21:12 [main] INFO  e.proyecto.conceptosavanzados.Curso - *** Código del curso ***
+2025-03-20 18:21:12 [main] INFO  e.proyecto.conceptosavanzados.Curso - Cupón del curso: 2
